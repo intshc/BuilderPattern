@@ -1,4 +1,4 @@
-package strategy;
+package strategypattern;
 
 public class Sword implements Weapon {
     @Override

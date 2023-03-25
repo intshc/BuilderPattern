@@ -1,4 +1,4 @@
-package test1;
+package builderpattern;
 
 class Member {
     private Integer age;

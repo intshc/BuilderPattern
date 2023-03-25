@@ -1,4 +1,4 @@
-package strategy;
+package strategypattern;
 
 public class GameCharacter implements Weapon {
     private Weapon weapon;
